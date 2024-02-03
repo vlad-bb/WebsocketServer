@@ -1,0 +1,54 @@
+2024-01-29 22:41:38.618156 ('::1', 58991, 0, 0) executed 'exchange' command
+2024-01-29 22:41:42.464517 ('::1', 58991, 0, 0) executed 'exchange' command
+2024-01-29 22:41:47.013757 ('::1', 58991, 0, 0) executed 'exchange' command
+2024-01-29 22:42:12.615959 ('::1', 58991, 0, 0) executed 'exchange' command
+2024-01-29 22:44:00.134718 ('::1', 59373, 0, 0) executed 'exchange' command
+2024-01-29 22:44:04.692161 ('::1', 59373, 0, 0) executed 'exchange' command
+2024-01-29 22:44:17.735766 ('::1', 59373, 0, 0) executed 'exchange' command
+2024-01-29 22:45:32.406495 ('::1', 59718, 0, 0) executed 'exchange' command
+2024-01-29 22:45:38.808485 ('::1', 59718, 0, 0) executed 'exchange' command
+2024-01-29 22:46:00.789443 ('::1', 59718, 0, 0) executed 'exchange' command
+2024-01-29 22:46:09.997716 ('::1', 59718, 0, 0) executed 'exchange' command
+2024-01-29 22:47:54.202500 ('::1', 60130, 0, 0) executed 'exchange' command
+2024-01-29 22:48:00.398587 ('::1', 60130, 0, 0) executed 'exchange' command
+2024-01-29 22:48:06.906004 ('::1', 60130, 0, 0) executed 'exchange' command
+2024-01-29 22:48:17.297959 ('::1', 60130, 0, 0) executed 'exchange' command
+2024-01-29 23:02:23.523931 ('::1', 62550, 0, 0) executed 'exchange' command
+2024-01-29 23:13:11.518862 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:13:24.050226 Executed 'exchange' command for date: 26.01.2024
+2024-01-29 23:13:50.317662 Executed 'exchange' command for date: 19.01.2024
+2024-01-29 23:17:32.955159 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:17:41.410155 Executed 'exchange' command for date: 26.01.2024
+2024-01-29 23:21:19.308220 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:21:29.309608 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:21:39.359895 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:22:13.212778 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:22:48.864263 Executed 'exchange' command for date: 27.01.2024
+2024-01-29 23:23:02.187292 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:24:33.368592 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:24:44.320995 Executed 'exchange' command for date: 26.01.2024
+2024-01-29 23:25:09.728809 Executed 'exchange' command for date: 27.01.2024
+2024-01-29 23:25:20.512720 Executed 'exchange' command for date: 26.01.2024
+2024-01-29 23:28:55.460086 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:29:05.467898 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:29:30.462695 Executed 'exchange' command for date: 26.01.2024
+2024-01-29 23:30:26.298114 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:30:42.444382 Executed 'exchange' command for date: 27.01.2024
+2024-01-29 23:33:38.492422 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:33:43.865429 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:36:33.416469 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:36:36.580666 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:39:57.947157 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:40:53.339218 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:41:26.558674 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:41:36.680486 Executed 'exchange' command for date: 27.01.2024
+2024-01-29 23:41:47.212715 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:43:42.069369 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:43:44.865739 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:43:53.698903 Executed 'exchange' command for date: 26.01.2024
+2024-01-29 23:45:21.919222 Executed 'exchange' command for date: 27.01.2024
+2024-01-29 23:45:31.928058 Executed 'exchange' command for date: 26.01.2024
+2024-01-29 23:45:41.928488 Executed 'exchange' command for date: 25.01.2024
+2024-01-29 23:46:49.310955 Executed 'exchange' command for date: 27.01.2024
+2024-01-29 23:47:09.096574 Executed 'exchange' command for date: 29.01.2024
+2024-01-29 23:47:19.099259 Executed 'exchange' command for date: 25.01.2024
