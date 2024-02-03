@@ -1,6 +1,6 @@
 console.log('Hello world!')
 
-const ws = new WebSocket('ws://161.35.144.244:8080')
+const ws = new WebSocket('wss://websocket-ai-tools.koyeb.app/')
 
 formChat.addEventListener('submit', (e) => {
     e.preventDefault()
